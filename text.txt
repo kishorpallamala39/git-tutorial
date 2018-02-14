@@ -1,4 +1,8 @@
 hi how r u
 this is venkata kishor
+<<<<<<< HEAD
 changed from branc1
 changes done by revert option
+=======
+changed from branc1
+>>>>>>> parent of cfb705d...  chnages for revert
