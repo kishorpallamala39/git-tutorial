@@ -13,4 +13,8 @@ this is done by branch12 latest
 >>>>>>> 4feffd8... commited by branch12
 =======
 this is done by branch12 latest
+<<<<<<< HEAD
+>>>>>>> branch12
+=======
+skfghdjfkgh
 >>>>>>> branch12
