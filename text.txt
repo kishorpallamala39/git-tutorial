@@ -3,6 +3,10 @@ this is venkata kishor
 <<<<<<< HEAD
 changed from branc1
 changes done by revert option
+<<<<<<< HEAD
 =======
 changed from branc1
 >>>>>>> parent of cfb705d...  chnages for revert
+=======
+this is done by branch12 latest
+>>>>>>> 4feffd8... commited by branch12
